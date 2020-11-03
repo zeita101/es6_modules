@@ -1,5 +1,3 @@
-// FILE: user-profile.js
-
 class UserProfile {
 
   loadUserProfile() {
