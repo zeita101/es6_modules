@@ -1,4 +1,3 @@
-// FILE: header.js
 import { userProfile } from '../components/user-profile';
 
 class Header {
