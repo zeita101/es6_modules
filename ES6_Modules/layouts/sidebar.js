@@ -1,5 +1,3 @@
-// FILE: sidebar.js
-
 class Sidebar {
 
   loadSidebar() {
