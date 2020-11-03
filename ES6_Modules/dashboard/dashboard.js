@@ -1,5 +1,3 @@
-// FILE: dashboard.js
-
 // From component folder
 import { users, issues } from '../components';
 
