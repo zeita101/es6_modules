@@ -1,5 +1,3 @@
-// FILE: users.js
-
 class Users {
 
   loadUsers() {
